@@ -8,4 +8,4 @@
 
 
 ```bash
-curl -sSL [https://raw.githubusercontent.com/pupsikdhd/vps-quick-start/refs/heads/main/start.sh](https://raw.githubusercontent.com/pupsikdhd/vps-quick-start/refs/heads/main/start.sh) | bash
+curl -sSL https://raw.githubusercontent.com/pupsikdhd/vps-quick-start/refs/heads/main/start.sh | bash
